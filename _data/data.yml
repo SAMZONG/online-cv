@@ -3,18 +3,18 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: 船长
-    tagline: Full Stack Developer
+    tagline: Full Stack Product Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: samzong.lu@gmail.com
-    phone: +63 945 4720 787
-    citizenship: 中国
+    phone: +86 15201889061
+    citizenship: Shanghai China
     website: samzong.me #do not add http://
     linkedin: samzong
     xing:
@@ -35,15 +35,12 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
-
     interests:
       - item: 魔方
         link:
 
       - item: 读书
-        link: https://www.yuque.com/pmx
+        link: https://www.yuque.com/samzong/pmx
 
       - item: 看电影
         link:
@@ -61,9 +58,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 英语 本科
+      university: 上海外国语大学
+      time: 2018 - 2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -72,9 +69,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: 英语 专科
+      university: 东北师范大学
+      time: 2015 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
