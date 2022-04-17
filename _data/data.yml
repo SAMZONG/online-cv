@@ -7,45 +7,48 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: 船长
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: samzong.lu@gmail.com
+    phone: +63 945 4720 787
+    citizenship: 中国
+    website: samzong.me #do not add http://
+    linkedin: samzong
+    xing:
+    github: samzong
+    telegram: samzong # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@samzong_lu'
+    stack-overflow: 5067657/samzong-lu # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: 中文
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
       - idiom: Spanish
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: 魔方
         link:
 
-      - item: Snowboarding
+      - item: 读书
+        link: https://www.yuque.com/pmx
+
+      - item: 看电影
         link:
 
-      - item: Cooking
+      - item: 编程
         link:
 
 career-profile:
